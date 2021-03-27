@@ -1,0 +1,50 @@
+html {
+    background-image: url("wp.jpg");
+    background-size: cover,no-repeat;
+}
+
+/* username field */
+#u-name {
+    padding: 5px;
+    margin-left:40%;
+}
+
+/* password field*/ 
+#u-pass {
+    padding: 5px;
+    margin-left:40%;
+}
+
+/* button field */
+#btn {
+    padding:5px;
+    margin-left: 40%;
+}
+
+/* heading */
+#heading {
+    font-size: 30px;
+    color: white;
+    font-family: sans-serif;
+    margin-left: 40%;
+    margin-top: 15%;
+}
+
+
+/* inside the input field */
+#user-txt-fld {
+    width: 250px;
+}
+
+/* inside the input field */
+#pass-txt-fld{
+    width: 250px;
+}
+
+/* background of the form */
+
+.form {
+    background-color: white;
+    padding:10px;
+    border-radius: 3em;
+}
